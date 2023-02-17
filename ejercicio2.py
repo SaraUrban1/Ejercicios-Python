@@ -5,7 +5,7 @@ def vectores ():
     for i in a:
         producto = a[i-1]*b[i-1]
         lista.append(producto)
-    print(f"El producto de los vectores {a} y {b} es {lista}")
+    print(f"El producto de los vectores {a} y {b} es {lista}") #lalalal
 
 
 
